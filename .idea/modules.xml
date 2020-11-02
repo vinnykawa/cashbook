@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="nodem-cashbook-0943330a8f5e/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nodem-cashbook-0943330a8f5e.iml" filepath="$PROJECT_DIR$/.idea/modules/nodem-cashbook-0943330a8f5e.iml" group="nodem-cashbook-0943330a8f5e" />
+    </modules>
+  </component>
+</project>

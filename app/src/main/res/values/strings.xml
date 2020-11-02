@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CashBook</string>
+    <string name="login_no_account"><ul>Don\'t have an account? Please Sign up </ul></string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <color name="bg_light_grey">#f3f3f3</color>
+    <color name="tan">#CC6600</color>
+    <color name="blue">#6699CC</color>
+    <color name="txt_black">#333</color>
+    <color name="txt_black_light">#585858</color>
+
+
+    
+<string name="sign_up_message">Please fill the form below to register as a new customer. </string>
+    <string name="returning">Please Login to access your records if you are a returning customer.</string>
+</resources>
