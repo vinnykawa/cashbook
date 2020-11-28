@@ -114,7 +114,7 @@ public class DashBoardFragment extends Fragment {
 					Intent i= new Intent(getActivity(),Ledger.class);
 					i.putExtra("name", name);
 					i.putExtra("amount", amnt);
-					i.putExtra("phone", dash.getContacts(position));
+					//i.putExtra("phone", dash.getContacts(position));
 					startActivity(i);
 					
 				}
@@ -131,7 +131,7 @@ public class DashBoardFragment extends Fragment {
 					Intent i= new Intent(getActivity(),Ledger.class);
 					i.putExtra("name", name);
 					i.putExtra("amount", amnt);
-					i.putExtra("phone", dash.getContacts(position));
+					//i.putExtra("phone", dash.getContacts(position));
 					startActivity(i);
 					
 				}

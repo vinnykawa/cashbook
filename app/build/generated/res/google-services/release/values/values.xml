@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">130954412898-6n1h7n3l6umacr9u0g4l4acs8v1d3f65.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cashbook-977b6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">130954412898</string>
+    <string name="google_api_key" translatable="false">AIzaSyDclisB7GFcw3ZnLaGcRXZvMJe9XaZG-Xw</string>
+    <string name="google_app_id" translatable="false">1:130954412898:android:c4bb3a53c63c822d93e23b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDclisB7GFcw3ZnLaGcRXZvMJe9XaZG-Xw</string>
+    <string name="google_storage_bucket" translatable="false">cashbook-977b6.appspot.com</string>
+    <string name="project_id" translatable="false">cashbook-977b6</string>
+</resources>
