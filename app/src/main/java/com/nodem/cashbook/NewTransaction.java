@@ -15,6 +15,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import androidx.core.util.TimeUtils;
 import android.text.format.Time;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -27,6 +28,9 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.ads.MobileAds;
 import com.nodem.cashbook.db.DBReader;
 import com.nodem.cashbook.net.SyncToServer;
 import com.vmk.cashbook.R;
@@ -43,6 +47,7 @@ public class NewTransaction extends Activity implements OnClickListener {
 	private DBReader.TransactionsTable transactions;
 	private DBReader.AccountsTable acTable;
 	private Calendar cal;
+
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

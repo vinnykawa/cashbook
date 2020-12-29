@@ -1,5 +1,10 @@
 package com.nodem.cashbook.fragments;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.nodem.cashbook.Backup;
 import com.nodem.cashbook.PasswordSetting;
 
@@ -41,6 +46,8 @@ public class SettingsFragment extends Fragment implements OnItemClickListener {
 		return new SettingsFragment();
 	}
 
+	private AdView mAdView;
+
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
@@ -55,6 +62,16 @@ public class SettingsFragment extends Fragment implements OnItemClickListener {
 		list.setAdapter(adapter);
 
 		list.setOnItemClickListener(this);
+
+		MobileAds.initialize(getContext(), new OnInitializationCompleteListener() {
+			@Override
+			public void onInitializationComplete(InitializationStatus initializationStatus) {
+
+			}
+		});
+		mAdView = vi.findViewById(R.id.adViewSettings);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
 
 		return vi;
 	}

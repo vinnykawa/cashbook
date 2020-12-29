@@ -13,6 +13,17 @@
         android:orientation="vertical"
         >
 
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewDash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-2431262281432400/7340945578">
+        </com.google.android.gms.ads.AdView>
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

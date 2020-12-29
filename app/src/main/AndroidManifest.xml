@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vmk.cashbook"
-    android:versionCode="2"
+    android:versionCode="3"
     android:versionName="1.1" >
 
     <uses-sdk android:targetSdkVersion="19" />
@@ -42,6 +42,11 @@
         <receiver android:name="com.nodem.cashbook.Mote"></receiver>
         <activity android:name="com.nodem.cashbook.Backup" android:label="Back up"></activity>
         <activity android:name="com.nodem.cashbook.PasswordSetting" android:label="Change password"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2431262281432400~1775372675"/>
+
     </application>
 
 </manifest>

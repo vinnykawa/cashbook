@@ -28,6 +28,11 @@ import android.widget.ListView;
 import android.widget.Toast;
 import android.widget.AdapterView.OnItemClickListener;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.nodem.cashbook.Ledger;
 import com.nodem.cashbook.NewAccount;
 import com.nodem.cashbook.adapters.AccountsListAdapter;
@@ -41,6 +46,7 @@ public class AccountsFragment extends Fragment implements OnClickListener {
 	private EditText search;
 	private ListView list;
 	private static final int PICK_CONTACT = 100;
+	private AdView mAdView;
 
 	public static AccountsFragment newInstance() {
 		return new AccountsFragment();
@@ -50,6 +56,16 @@ public class AccountsFragment extends Fragment implements OnClickListener {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		View vi = inflater.inflate(R.layout.accounts, container, false);
+
+		MobileAds.initialize(getContext(), new OnInitializationCompleteListener() {
+			@Override
+			public void onInitializationComplete(InitializationStatus initializationStatus) {
+
+			}
+		});
+		mAdView = vi.findViewById(R.id.adViewAcc);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
 
 		initViews(vi);
 

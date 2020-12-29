@@ -1,5 +1,11 @@
 package com.nodem.cashbook.fragments;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.nodem.cashbook.Ledger;
 import com.nodem.cashbook.NewTransaction;
@@ -11,7 +17,11 @@ import com.vmk.cashbook.R;
 
 import android.content.Intent;
 import android.os.Bundle;
+
+import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,16 +36,31 @@ public class DashBoardFragment extends Fragment {
 	private ListView list_credit,list_debit;
 	private TextView credit,debit,creditTotal,debitTotal;
 	FloatingActionButton fab;
+	private AdView mAdView;
+
+
 	public static DashBoardFragment newInstance() {
 		DashBoardFragment fragment = new DashBoardFragment();
 
 		return fragment;
 	}
 
-	@Override
+
+    @Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		View rootView = inflater.inflate(R.layout.dashboard2, container, false);
+
+		MobileAds.initialize(getContext(), new OnInitializationCompleteListener() {
+			@Override
+			public void onInitializationComplete(InitializationStatus initializationStatus) {
+
+			}
+		});
+		mAdView = rootView.findViewById(R.id.adViewDash);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
+
 
 		initViews(rootView);
 		refreshList();
@@ -54,6 +79,8 @@ public class DashBoardFragment extends Fragment {
 		list_debit = (ListView)vi.findViewById(R.id.list_debit);
 
 		fab = (FloatingActionButton)vi.findViewById(R.id.fab);
+
+
 		
 		
 	}
@@ -92,6 +119,7 @@ public class DashBoardFragment extends Fragment {
 		fab.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
+
 				startActivity(new Intent(getContext(), NewTransaction.class));
 
 			}

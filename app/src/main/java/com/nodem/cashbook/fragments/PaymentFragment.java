@@ -1,6 +1,11 @@
 package com.nodem.cashbook.fragments;
 
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.nodem.cashbook.adapters.PaymentsListAdapter;
 import com.nodem.cashbook.db.DBReader;
 import com.vmk.cashbook.R;
@@ -16,6 +21,7 @@ import android.widget.ListView;
 public class PaymentFragment extends Fragment {
 
 	private ListView list;
+	private AdView mAdView;
 	public static PaymentFragment newInstance() {
 
 		return new PaymentFragment();
@@ -26,6 +32,16 @@ public class PaymentFragment extends Fragment {
 			Bundle savedInstanceState) {
 
 		View rootView = inflater.inflate(R.layout.payments, container, false);
+
+		MobileAds.initialize(getContext(), new OnInitializationCompleteListener() {
+			@Override
+			public void onInitializationComplete(InitializationStatus initializationStatus) {
+
+			}
+		});
+		mAdView = rootView.findViewById(R.id.adViewPaymts);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
 
 		initViews(rootView);
 
