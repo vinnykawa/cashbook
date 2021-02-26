@@ -58,6 +58,7 @@ public class SyncToServer extends AsyncTask<String, String, String> {
 		String pass = context.getSharedPreferences("PREFS",
 				Context.MODE_PRIVATE).getString("password", "");
 
+
 		return username + "_" + pass;
 	}
 	
@@ -81,14 +82,17 @@ public class SyncToServer extends AsyncTask<String, String, String> {
 
 		HttpClient client = new DefaultHttpClient();
 		HttpPost post = new HttpPost(
-				"http://mmadandroid.com/cashbook/upload.php");
+				"http://cashbook.nodemtech.com/upload.php");
 		StatusLine status = null;
 		try {
 			// add values to array
 			List<NameValuePair> values = new ArrayList<NameValuePair>();
+
+			int userId = context.getSharedPreferences("PREFS",
+					Context.MODE_PRIVATE).getInt("user_id", 0);
 			
 			//send table name
-			values.add(new BasicNameValuePair("tablename", getTableName()));
+			values.add(new BasicNameValuePair("user_id",""+userId));
 
 			// get names
 			for (String s : accountsTable.getAccNames())

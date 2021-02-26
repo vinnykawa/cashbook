@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\cashbook\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vinny\\.gradle\\caches\\transforms-2\\files-2.1\\0a589703c4826abdff6b0723491c2e72\\appcompat-1.1.0\\res\\values-ms\\values-ms.xml",
+                    "source": "/Users/kawawa/.gradle/caches/transforms-2/files-2.1/0a589703c4826abdff6b0723491c2e72/appcompat-1.1.0/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vinny\\.gradle\\caches\\transforms-2\\files-2.1\\332714a747b90476d89143795caa083a\\jetified-play-services-ads-19.5.0\\res\\values-ms\\values.xml",
+                    "source": "/Users/kawawa/.gradle/caches/transforms-2/files-2.1/64adfc70ad36639ab0a9594e951eb66c/jetified-play-services-basement-17.3.0/res/values-ms/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "2800",
+                        "endColumns": "204",
+                        "endOffsets": "3000"
+                    }
+                },
+                {
+                    "source": "/Users/kawawa/.gradle/caches/transforms-2/files-2.1/332714a747b90476d89143795caa083a/jetified-play-services-ads-19.5.0/res/values-ms/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vinny\\.gradle\\caches\\transforms-2\\files-2.1\\55b8dd7be3f345d9a2e97afb3f8dbec3\\core-1.2.0\\res\\values-ms\\values-ms.xml",
+                    "source": "/Users/kawawa/.gradle/caches/transforms-2/files-2.1/55b8dd7be3f345d9a2e97afb3f8dbec3/core-1.2.0/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,23 +69,6 @@
                         "startOffsets": "4541",
                         "endColumns": "100",
                         "endOffsets": "4637"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vinny\\.gradle\\caches\\transforms-2\\files-2.1\\64adfc70ad36639ab0a9594e951eb66c\\jetified-play-services-basement-17.3.0\\res\\values-ms\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "2800",
-                        "endColumns": "204",
-                        "endOffsets": "3000"
                     }
                 }
             ]

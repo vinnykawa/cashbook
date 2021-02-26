@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\cashbook\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "183",
+                        "startOffsets": "177",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "314"
+                        "endOffsets": "306"
                     },
                     "to": {
                         "startLines": "2",

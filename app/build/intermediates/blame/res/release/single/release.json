@@ -1,334 +1,334 @@
 [
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_dashboard2.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/dashboard2.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-hdpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_signup.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\signup.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_dashboard.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/dashboard.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_savings.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\savings.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_key_24.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_key_24.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_card_white.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\card_white.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_piggybank.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/piggybank.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\dashboard.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_button_credit.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_button_credit.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_button_debit.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_button_debit.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_row_account.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/row_account.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_border.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\border.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xhdpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_key_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\key_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_lock_icon.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_lock_icon.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xhdpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-hdpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-mdpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_minus.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/minus.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_rate_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\rate_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_backup.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/backup.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_refresh.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_border.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/border.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_input.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_input.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_button.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_button.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-ldpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-ldpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_new_transaction.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\new_transaction.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_plus.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/plus.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_key_24_focused.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_key_24_focused.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_card_white.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/card_white.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_row_dashboard.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/row_dashboard.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_login.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/login.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_transaction_add.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\transaction_add.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-ldpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-ldpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_card.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\card.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-hdpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_transactions_list.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\transactions_list.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-ldpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-ldpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_lock_24_focused.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_lock_24_focused.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_lock_24_focused.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_lock_24_focused.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_signup.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/signup.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_add_24.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_add_24.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xhdpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_add_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-hdpi/ic_add_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_add_new.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\add_new.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_button.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_button.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_row_settings.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\row_settings.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_search_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/search_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_piggybank.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\piggybank.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_backup_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/backup_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard2.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\dashboard2.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_lock_icon.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_lock_icon.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_key_icon.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_key_icon.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xhdpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_refresh.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/refresh.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_settings.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\settings.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xhdpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_key_24_focused.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_key_24_focused.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-mdpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_row_dashboard.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\row_dashboard.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_add_24.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_add_24.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\color_checkbox_tint.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\color\\checkbox_tint.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_payments.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\payments.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_payments.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/payments.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_add_new_account.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\add_new_account.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-mdpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_phone_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\phone_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_key_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/key_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/menu_main.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_backup_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\backup_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/color_checkbox_tint.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/color/checkbox_tint.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_passwordsetting.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\passwordsetting.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_new_transaction.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/new_transaction.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_key_icon.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_key_icon.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_accounts.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/accounts.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_login.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\login.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-hdpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_row_payment.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\row_payment.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_add_new_account.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/add_new_account.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_lock_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_lock_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_help_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\help_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_phone_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/phone_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_accounts.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\accounts.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_share_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/share_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_add_new.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/add_new.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_lock_24.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_lock_24.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-mdpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_rate_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/rate_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_button_debit.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_button_debit.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_share_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\share_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_row_ledger.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/row_ledger.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_lock_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_lock_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_ledger.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/ledger.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_card.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/card.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_key_24.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_key_24.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-mdpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-mdpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_button_credit.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable\\custom_button_credit.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_lock_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_lock_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_minus.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\minus.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_passwordsetting.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/passwordsetting.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_add_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_add_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable_custom_input.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable/custom_input.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_help_icon.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/help_icon.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_lock_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_lock_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-ldpi_ic_key_24_focused.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-ldpi/ic_key_24_focused.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_key_24.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_key_24.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_transactions_list.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/transactions_list.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_backup.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\backup.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_settings.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/settings.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_plus.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_row_payment.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/row_payment.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_row_ledger.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\row_ledger.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_savings.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/savings.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_key_24_focused.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_key_24_focused.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-ldpi_ic_key_24.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-ldpi/ic_key_24.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_icon.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/layout_row_settings.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/layout/row_settings.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_transaction_add.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/transaction_add.png"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_row_account.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\row_account.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_lock_24.xml.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_lock_24.xml"
     },
     {
-        "merged": "D:\\Work\\cashbook\\app\\build\\intermediates\\res\\merged\\release\\layout_ledger.xml.flat",
-        "source": "D:\\Work\\cashbook\\app\\src\\main\\res\\layout\\ledger.xml"
+        "merged": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kawawa/AndroidStudioProjects/cashbook1/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]
