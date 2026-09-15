@@ -9,6 +9,7 @@ import java.util.Set;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import com.nodem.cashbook.core.CashbookAmounts;
 import android.provider.SyncStateContract.Helpers;
 import android.util.Log;
 
@@ -150,7 +151,7 @@ public class DBReader {
 				credits.add(credit);
 				debits.add(debit);
 
-				amounts.add(credit > 0 ? credit + " Cr" : debit + " Dr");
+				amounts.add(CashbookAmounts.transactionAmountLabel(credit, debit));
 
 			}
 
@@ -224,13 +225,13 @@ public class DBReader {
 					int credit = Integer.parseInt(credits.get(key));
 					int debit = Integer.parseInt(debits.get(key));
 
-					int diff = credit - debit;
-					if (diff > 0) {
+					int diff = CashbookAmounts.netCreditBalance(credit, debit);
+					if (CashbookAmounts.balanceSide(credit, debit) == CashbookAmounts.CREDIT) {
 						creditors.add(key);
 						creditTotals.add(diff);
 					} else {
 						debtors.add(key);
-						debitTotals.add((-diff));
+						debitTotals.add(CashbookAmounts.absoluteBalance(credit, debit));
 					}
 				}
 			}
